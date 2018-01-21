@@ -79,6 +79,6 @@ test:
 #
 production:
   <<: *default
-  database: myapp_production
-  username: myapp
-  password: <%= ENV['MYAPP_DATABASE_PASSWORD'] %>
+  database: ziaapp_production
+  username: ziaapp
+  password: <%= ENV['ZIAAPP_DATABASE_PASSWORD'] %>

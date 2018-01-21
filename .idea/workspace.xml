@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4523cfc5-65b3-46ef-bc73-f85b25e3c46f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/restaurant.iml" afterPath="$PROJECT_DIR$/.idea/restaurant.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20180120154825_change_column_datatype.rb" afterPath="$PROJECT_DIR$/db/migrate/20180120154825_change_column_datatype.rb" />
     </list>
     <ignored path="restaurant.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,18 +41,58 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="343">
+              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <file leaf-file-name="database.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+            <state relative-caret-position="530">
+              <caret line="83" column="24" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20180120132228_rename_shift.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20180120132228_rename_shift.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20180121061154_add_hotel_no.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20180121061154_add_hotel_no.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20180121044032_add_guest_count_to_reservation.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20180121044032_add_guest_count_to_reservation.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20180120154825_change_column_datatype.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20180120154825_change_column_datatype.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -70,7 +109,6 @@
         <option value="$PROJECT_DIR$/db/migrate/20180120132228_rename_shift.rb" />
         <option value="$PROJECT_DIR$/db/seeds.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20180120064642_create_hotels.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20180120154825_change_column_datatype.rb" />
         <option value="$PROJECT_DIR$/app/views/guest_email.html.erb" />
         <option value="$PROJECT_DIR$/config/environments/development.rb" />
         <option value="$PROJECT_DIR$/app/mailers/application_mailer.rb" />
@@ -100,10 +138,11 @@
         <option value="$PROJECT_DIR$/test/models/hotel_test.rb" />
         <option value="$PROJECT_DIR$/test/controllers/hotels_controller_test.rb" />
         <option value="$PROJECT_DIR$/config/environments/test.rb" />
-        <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/Gemfile.lock" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/db/migrate/20180120154825_change_column_datatype.rb" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
       </list>
     </option>
   </component>
@@ -144,9 +183,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -155,8 +193,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restaurant_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restaurant_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restaurant_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restaurant_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restaurant_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restaurant_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,7 +245,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="ge&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile.lock&#10;gem&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile&#10;gemfile&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile.lock&#10;pro&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;p&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;produ&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;data&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/database.yml&#10;sec&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/secrets.yml&#10;test&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/environments/test.rb&#10;hotels_con&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;hote&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;hotel&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/hotel.rb&#10;hotel_te&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/models/hotel_test.rb&#10;guest&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/guest.rb&#10;guests&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/guests_controller_test.rb&#10;models/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/models&#10;hotels&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/controllers/api/v1/hotels_controller.rb&#10;hotel_con&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;routes&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/routes.rb&#10;reser&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/reservation.rb&#10;tabl&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/table.rb&#10;res&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;tables&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/tables.yml&#10;sche&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/db/schema.rb&#10;table&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/tables.yml&#10;gues&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/guests.yml&#10;schema&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/db/schema.rb&#10;migration/&#9;FILE&#9;file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/activerecord-5.1.4/lib/active_record/migration&#10;mailer&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/mailers/hotel_mailer.rb&#10;fixtures/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures&#10;ho&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/hotel.rb&#10;hotels_&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;hotelMail&#9;null&#9;null&#10;reserva&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;layouts/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/views/layouts&#10;mailer/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/mailers&#10;development&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/environments/development.rb&#10;hotel.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;reser.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;reservation&#9;null&#9;null&#10;db/migrate/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/db/migrate&#10;hotels.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;database&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant/config/database.yml&#10;seed&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant/db/seeds.rb" />
+    <property name="SearchEverywhereHistoryKey" value="data&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/database.yml&#10;db/migrate/&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/db/migrate&#10;rena&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/db/migrate/20180120132228_rename_shift.rb&#10;ge&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile.lock&#10;gem&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile&#10;gemfile&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile.lock&#10;pro&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;p&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;produ&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;sec&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/secrets.yml&#10;test&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/environments/test.rb&#10;hotels_con&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;hote&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;hotel&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/hotel.rb&#10;hotel_te&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/models/hotel_test.rb&#10;guest&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/guest.rb&#10;guests&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/guests_controller_test.rb&#10;models/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/models&#10;hotels&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/controllers/api/v1/hotels_controller.rb&#10;hotel_con&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;routes&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/routes.rb&#10;reser&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/reservation.rb&#10;tabl&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/table.rb&#10;res&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;tables&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/tables.yml&#10;sche&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/db/schema.rb&#10;table&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/tables.yml&#10;gues&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/guests.yml&#10;schema&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/db/schema.rb&#10;migration/&#9;FILE&#9;file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/activerecord-5.1.4/lib/active_record/migration&#10;mailer&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/mailers/hotel_mailer.rb&#10;fixtures/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures&#10;ho&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/hotel.rb&#10;hotels_&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;hotelMail&#9;null&#9;null&#10;reserva&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;layouts/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/views/layouts&#10;mailer/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/mailers&#10;development&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/environments/development.rb&#10;hotel.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;reser.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;reservation&#9;null&#9;null&#10;hotels.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;database&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant/config/database.yml&#10;seed&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant/db/seeds.rb" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
@@ -360,11 +441,12 @@
       <workItem from="1516544981439" duration="2123000" />
       <workItem from="1516550361081" duration="1157000" />
       <workItem from="1516551777992" duration="1536000" />
+      <workItem from="1516557467939" duration="125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34553000" />
+    <option name="totallyTimeSpent" value="34678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -478,13 +560,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20180120132228_rename_shift.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/mailer.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -524,27 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20180120154825_change_column_datatype.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20180121044032_add_guest_count_to_reservation.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20180121061154_add_hotel_no.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -716,13 +770,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bin/bundle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -741,15 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -757,6 +795,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20180120132228_rename_shift.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20180121061154_add_hotel_no.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20180121044032_add_guest_count_to_reservation.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20180120154825_change_column_datatype.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="83" column="24" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
           <folding />
         </state>
       </provider>
