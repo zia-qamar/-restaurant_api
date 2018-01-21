@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4523cfc5-65b3-46ef-bc73-f85b25e3c46f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20180120154825_change_column_datatype.rb" afterPath="$PROJECT_DIR$/db/migrate/20180120154825_change_column_datatype.rb" />
     </list>
     <ignored path="restaurant.iws" />
@@ -110,7 +111,7 @@
         <entry file="file://$PROJECT_DIR$/db/migrate/20180120154825_change_column_datatype.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="90" selection-start-line="2" selection-start-column="90" selection-end-line="2" selection-end-column="90" />
+              <caret line="2" column="83" selection-start-line="2" selection-start-column="83" selection-end-line="2" selection-end-column="83" />
               <folding />
             </state>
           </provider>
@@ -469,12 +470,12 @@
       <workItem from="1516544981439" duration="2123000" />
       <workItem from="1516550361081" duration="1157000" />
       <workItem from="1516551777992" duration="1536000" />
-      <workItem from="1516557467939" duration="1140000" />
+      <workItem from="1516557467939" duration="1292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35693000" />
+    <option name="totallyTimeSpent" value="35845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -873,7 +874,7 @@
     <entry file="file://$PROJECT_DIR$/db/migrate/20180120154825_change_column_datatype.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="90" selection-start-line="2" selection-start-column="90" selection-end-line="2" selection-end-column="90" />
+          <caret line="2" column="83" selection-start-line="2" selection-start-column="83" selection-end-line="2" selection-end-column="83" />
           <folding />
         </state>
       </provider>
