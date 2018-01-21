@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4523cfc5-65b3-46ef-bc73-f85b25e3c46f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/restaurant.iml" afterPath="$PROJECT_DIR$/.idea/restaurant.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
     </list>
     <ignored path="restaurant.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,21 +39,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="187">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+      <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -99,8 +102,8 @@
         <option value="$PROJECT_DIR$/config/environments/test.rb" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
-        <option value="$PROJECT_DIR$/Gemfile.lock" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/Gemfile.lock" />
       </list>
     </option>
   </component>
@@ -161,7 +164,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="gem&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile&#10;gemfile&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile.lock&#10;pro&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;p&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;produ&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;data&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/database.yml&#10;sec&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/secrets.yml&#10;test&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/environments/test.rb&#10;hotels_con&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;hote&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;hotel&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/hotel.rb&#10;hotel_te&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/models/hotel_test.rb&#10;guest&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/guest.rb&#10;guests&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/guests_controller_test.rb&#10;models/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/models&#10;hotels&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/controllers/api/v1/hotels_controller.rb&#10;hotel_con&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;routes&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/routes.rb&#10;reser&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/reservation.rb&#10;tabl&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/table.rb&#10;res&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;tables&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/tables.yml&#10;sche&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/db/schema.rb&#10;table&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/tables.yml&#10;gues&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/guests.yml&#10;schema&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/db/schema.rb&#10;migration/&#9;FILE&#9;file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/activerecord-5.1.4/lib/active_record/migration&#10;mailer&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/mailers/hotel_mailer.rb&#10;fixtures/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures&#10;ho&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/hotel.rb&#10;hotels_&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;hotelMail&#9;null&#9;null&#10;reserva&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;layouts/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/views/layouts&#10;mailer/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/mailers&#10;development&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/environments/development.rb&#10;hotel.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;reser.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;reservation&#9;null&#9;null&#10;db/migrate/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/db/migrate&#10;hotels.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;database&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant/config/database.yml&#10;seed&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant/db/seeds.rb" />
+    <property name="SearchEverywhereHistoryKey" value="ge&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile.lock&#10;gem&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile&#10;gemfile&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile.lock&#10;pro&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;p&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;produ&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;data&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/database.yml&#10;sec&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/secrets.yml&#10;test&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/environments/test.rb&#10;hotels_con&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;hote&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;hotel&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/hotel.rb&#10;hotel_te&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/models/hotel_test.rb&#10;guest&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/guest.rb&#10;guests&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/guests_controller_test.rb&#10;models/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/models&#10;hotels&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/controllers/api/v1/hotels_controller.rb&#10;hotel_con&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;routes&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/routes.rb&#10;reser&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/reservation.rb&#10;tabl&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/table.rb&#10;res&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;tables&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/tables.yml&#10;sche&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/db/schema.rb&#10;table&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/tables.yml&#10;gues&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/guests.yml&#10;schema&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/db/schema.rb&#10;migration/&#9;FILE&#9;file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/activerecord-5.1.4/lib/active_record/migration&#10;mailer&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/mailers/hotel_mailer.rb&#10;fixtures/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures&#10;ho&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/hotel.rb&#10;hotels_&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;hotelMail&#9;null&#9;null&#10;reserva&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;layouts/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/views/layouts&#10;mailer/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/mailers&#10;development&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/environments/development.rb&#10;hotel.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;reser.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;reservation&#9;null&#9;null&#10;db/migrate/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/db/migrate&#10;hotels.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;database&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant/config/database.yml&#10;seed&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant/db/seeds.rb" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
@@ -356,12 +359,12 @@
       <workItem from="1516505461312" duration="13686000" />
       <workItem from="1516544981439" duration="2123000" />
       <workItem from="1516550361081" duration="1157000" />
-      <workItem from="1516551777992" duration="349000" />
+      <workItem from="1516551777992" duration="548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33366000" />
+    <option name="totallyTimeSpent" value="33565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -742,18 +745,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
