@@ -6,6 +6,5 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 5.times do |index|
-  Guest.create(name: "Zia #{index}", email: "zia.qamar_#{index}@gmail.com")
-  Hotel.create(name: "Hotel #{index}", email: "hotel.qamar_#{index}@gmail.com", phone: '987987', start_time: '9am', end_time: '10pm')
+  Table.create(name: "Table #{index + 1}", minimum_guest: 5, maximum_guest: 10, hotel_id: 1)
 end

@@ -26,13 +26,13 @@ module Api
         end
       end
 
-def update
-  if @guest.update(hotel_params)
-    render json: @guest
-  else
-    render json: @guest.errors, status: :unprocessable_entity
-  end
-end
+      def update
+        if @guest.update(guest_params)
+          render json: @guest
+        else
+          render json: @guest.errors, status: :unprocessable_entity
+        end
+      end
 
 
       private
@@ -43,7 +43,7 @@ end
 
       # Only allow a trusted parameter "white list" through.
       def guest_params
-        params.require(:guest).permit(:name, :email)
+        params.require(:guest).permit(:name, :email, :hotel_id)
       end
     end
   end
