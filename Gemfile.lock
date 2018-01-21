@@ -111,7 +111,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
-  pg (~> 0.20)
+  pg (~> 0.21.0)
   puma (~> 3.7)
   rails (~> 5.1.4)
   tzinfo-data
