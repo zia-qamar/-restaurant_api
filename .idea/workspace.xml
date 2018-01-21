@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4523cfc5-65b3-46ef-bc73-f85b25e3c46f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20180120154825_change_column_datatype.rb" afterPath="$PROJECT_DIR$/db/migrate/20180120154825_change_column_datatype.rb" />
-    </list>
+    <list default="true" id="4523cfc5-65b3-46ef-bc73-f85b25e3c46f" name="Default" comment="" />
     <ignored path="restaurant.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -470,15 +467,15 @@
       <workItem from="1516544981439" duration="2123000" />
       <workItem from="1516550361081" duration="1157000" />
       <workItem from="1516551777992" duration="1536000" />
-      <workItem from="1516557467939" duration="1292000" />
+      <workItem from="1516557467939" duration="1315000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35845000" />
+    <option name="totallyTimeSpent" value="35868000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24450952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />

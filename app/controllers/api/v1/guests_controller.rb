@@ -26,6 +26,15 @@ module Api
         end
       end
 
+def update
+  if @guest.update(hotel_params)
+    render json: @guest
+  else
+    render json: @guest.errors, status: :unprocessable_entity
+  end
+end
+
+
       private
       # Use callbacks to share common setup or constraints between actions.
       def set_guest
