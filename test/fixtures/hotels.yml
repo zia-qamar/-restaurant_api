@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  name: Almas Hotel
+  phone: '1234567'
+  email: ziaulqamar587@gmail.com
+  start_time: '01:30:38'
+  end_time: '12:32:38'
+
+two:
+  id: 2
+  name: Hotel No 22
+  phone: '1234567'
+  email: ziaulqamar587@gmail.com
+  start_time: '18:30:38'
+  end_time: '20:32:38'

@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  res_time: '2018-01-20 10:32:38'
+  hotel_id: 1
+  guest: one
+  table_id: 1
+  guest_count: 8
+
+two:
+  res_time: '2018-01-20 10:32:38'
+  hotel_id: 2
+  guest: two
+  table_id: 2
+  guest_count: 1
+

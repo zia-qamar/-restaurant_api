@@ -1,0 +1,11 @@
+<h4>Reservations has been Updated</h4>
+<table>
+  <% @options.each do |key, value| %>
+      <tr>
+        <td> <%= key %> has been changed.</td>
+        <td> was: <%= value[0] %></td>
+        <td> Now: <%= value[1] %></td>
+      </tr>
+  <% end %>
+
+</table>

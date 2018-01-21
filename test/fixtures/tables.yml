@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  name: First Table
+  minimum_guest: 1
+  maximum_guest: 10
+  hotel_id: 1
+
+two:
+  id: 2
+  name: Last Table
+  minimum_guest: 1
+  maximum_guest: 9
+  hotel_id: 1

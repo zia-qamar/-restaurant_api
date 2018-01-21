@@ -1,0 +1,34 @@
+<h1>Hi <%= @user.name %></h1>
+<h4>You reservations has been made successfully, See details</h4>
+<table>
+  <tr>
+    <td>
+      Restaurant Name
+    </td>
+    <td>
+      <%= @email_data[:hotel].name %>
+    </td>
+  </tr><tr>
+    <td>
+      Reservation Time
+    </td>
+    <td>
+      <%= @email_data[:reservation].res_time.strftime("%B/%d %H:%M") %>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Table
+    </td>
+    <td>
+      <%= @email_data[:table].name %>
+    </td>
+  </tr><tr>
+    <td>
+      Total Guests
+    </td>
+    <td>
+      <%= @email_data[:reservation].guest_count %>
+    </td>
+  </tr>
+</table>
