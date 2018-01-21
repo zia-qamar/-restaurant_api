@@ -1,7 +1,7 @@
 module Api
   module V1
     class GuestsController < ApplicationController
-      before_action :set_guest, only: [:show, :destroy]
+      before_action :set_guest, only: [:show, :destroy, :update]
 
       # GET /guests
       def index

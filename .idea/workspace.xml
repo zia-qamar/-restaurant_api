@@ -4,7 +4,6 @@
     <list default="true" id="4523cfc5-65b3-46ef-bc73-f85b25e3c46f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/api/v1/guests_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/api/v1/guests_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seeds.rb" afterPath="$PROJECT_DIR$/db/seeds.rb" />
     </list>
     <ignored path="restaurant.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,16 +37,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="database.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/database.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1411">
-              <caret line="83" column="24" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="20180120132228_rename_shift.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/migrate/20180120132228_rename_shift.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="guests_controller.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="guests_controller.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/api/v1/guests_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -111,14 +100,24 @@
       <file leaf-file-name="schema.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/schema.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="306">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seeds.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hotels_controller_test.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/controllers/hotels_controller_test.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seeds.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/seeds.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -181,8 +180,8 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/db/migrate/20180120154825_change_column_datatype.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/api/v1/guests_controller.rb" />
         <option value="$PROJECT_DIR$/db/seeds.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/api/v1/guests_controller.rb" />
       </list>
     </option>
   </component>
@@ -193,10 +192,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1378" />
-    <option name="height" value="744" />
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -285,7 +284,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="seed&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/db/seeds.rb&#10;sche&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/db/schema.rb&#10;guest&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/app/controllers/api/v1/guests_controller.rb&#10;data&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/database.yml&#10;db/migrate/&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/db/migrate&#10;rena&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/db/migrate/20180120132228_rename_shift.rb&#10;ge&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile.lock&#10;gem&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile&#10;gemfile&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile.lock&#10;pro&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;p&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;produ&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;sec&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/secrets.yml&#10;test&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/environments/test.rb&#10;hotels_con&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;hote&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;hotel&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/hotel.rb&#10;hotel_te&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/models/hotel_test.rb&#10;guests&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/guests_controller_test.rb&#10;models/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/models&#10;hotels&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/controllers/api/v1/hotels_controller.rb&#10;hotel_con&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;routes&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/routes.rb&#10;reser&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/reservation.rb&#10;tabl&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/table.rb&#10;res&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;tables&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/tables.yml&#10;table&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/tables.yml&#10;gues&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/guests.yml&#10;schema&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/db/schema.rb&#10;migration/&#9;FILE&#9;file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/activerecord-5.1.4/lib/active_record/migration&#10;mailer&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/mailers/hotel_mailer.rb&#10;fixtures/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures&#10;ho&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/hotel.rb&#10;hotels_&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;hotelMail&#9;null&#9;null&#10;reserva&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;layouts/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/views/layouts&#10;mailer/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/mailers&#10;development&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/environments/development.rb&#10;hotel.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;reser.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;reservation&#9;null&#9;null&#10;hotels.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;database&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant/config/database.yml" />
+    <property name="SearchEverywhereHistoryKey" value="guest&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/app/controllers/api/v1/guests_controller.rb&#10;hote&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;seed&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/db/seeds.rb&#10;sche&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/db/schema.rb&#10;data&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/database.yml&#10;db/migrate/&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/db/migrate&#10;rena&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/db/migrate/20180120132228_rename_shift.rb&#10;ge&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile.lock&#10;gem&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile&#10;gemfile&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/Gemfile.lock&#10;pro&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;p&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;produ&#9;FILE&#9;file://C:/Users/Guest/Desktop/restaurant_app/config/environments/production.rb&#10;sec&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/secrets.yml&#10;test&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/environments/test.rb&#10;hotels_con&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;hotel&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/hotel.rb&#10;hotel_te&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/models/hotel_test.rb&#10;guests&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/guests_controller_test.rb&#10;models/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/models&#10;hotels&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/controllers/api/v1/hotels_controller.rb&#10;hotel_con&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;routes&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/routes.rb&#10;reser&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/reservation.rb&#10;tabl&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/table.rb&#10;res&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;tables&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/tables.yml&#10;table&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/tables.yml&#10;gues&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/guests.yml&#10;schema&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/db/schema.rb&#10;migration/&#9;FILE&#9;file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/activerecord-5.1.4/lib/active_record/migration&#10;mailer&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/mailers/hotel_mailer.rb&#10;fixtures/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures&#10;ho&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/models/hotel.rb&#10;hotels_&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/controllers/hotels_controller_test.rb&#10;hotelMail&#9;null&#9;null&#10;reserva&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;layouts/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/views/layouts&#10;mailer/&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/app/mailers&#10;development&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/config/environments/development.rb&#10;hotel.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;reser.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/reservations.yml&#10;reservation&#9;null&#9;null&#10;hotels.yml&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant_app/test/fixtures/hotels.yml&#10;database&#9;FILE&#9;file://C:/Users/Zia/Desktop/restaurant/config/database.yml" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
@@ -482,18 +481,18 @@
       <workItem from="1516550361081" duration="1157000" />
       <workItem from="1516551777992" duration="1536000" />
       <workItem from="1516557467939" duration="1315000" />
-      <workItem from="1516560190742" duration="163000" />
+      <workItem from="1516560190742" duration="736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36031000" />
+    <option name="totallyTimeSpent" value="36604000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2444934" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24703264" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -741,13 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/controllers/hotels_controller_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/runConfigurations/Production__restaurant.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -869,26 +861,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="92" selection-start-line="8" selection-start-column="92" selection-end-line="8" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/db/schema.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        <state relative-caret-position="306">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/controllers/hotels_controller_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/api/v1/guests_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="92" selection-start-line="8" selection-start-column="92" selection-end-line="8" selection-end-column="92" />
+        <state relative-caret-position="51">
+          <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
           <folding />
         </state>
       </provider>
